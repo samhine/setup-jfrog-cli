@@ -1,5 +1,6 @@
 [![JFrog CLI](images/readme_image.png)](#readme)
 
+
 <div align="center">
 
 # Setup JFrog CLI
